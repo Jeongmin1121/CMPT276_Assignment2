@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+.Choices {
+    justify-content: space-around;
+    padding: 20px;
+}
+
+body {
+    background-color: gray;
+}
+
+head {
+    background-color: gray;
+}
