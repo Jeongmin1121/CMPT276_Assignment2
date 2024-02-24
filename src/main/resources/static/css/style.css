@@ -3,6 +3,19 @@ h1 {
     padding: 20px;
 }
 
+
+body {
+    text-align: center;
+    padding: 100px;
+
+}
+
+
+#input{
+    text-align: center;
+    padding: 20px;
+}
+
 .Choices {
     justify-content: space-around;
     padding: 20px;
